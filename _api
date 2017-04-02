@@ -1,0 +1,18 @@
+http://ugc.moji001.com/sns/json/weather/city/search
+{
+    "common": {
+        "uid": "360383231",
+        "platform": "Android",
+        "height": 1280,
+        "width": 720,
+        "device": "CHM-TL00H",
+        "app_version": "1006010602",
+        "pid": "8888",
+        "language": "CN",
+        "identifier": "224700045755440",
+        "os_version": "19"
+    },
+    "params": {
+        "search_word": "西安"
+    }
+}
