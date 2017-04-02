@@ -1,4 +1,7 @@
-http://ugc.moji001.com/sns/json/weather/city/search
+获取cityid
+header:  Content-Type: application/json
+url:     http://ugc.moji001.com/sns/json/weather/city/search
+data:
 {
     "common": {
         "uid": "360383231",
